@@ -1,0 +1,102 @@
+Amazon Web Services:
+
+1. Teraform
+2. If we give url like www.test.com/Images, it has to go to one server and if we give www.test.com/Login then it has to go to another server.
+3. Diff on "On-demand" and "Spot Instances".
+4. Auto scaling conditions.
+5. What are the things we have to do to avoid down times.
+
+
+Git/SVN:
+
+1. Clear cases.
+
+
+Maven:
+1. 
+
+
+Jenkins: 
+
+1. Class file deploymet in Jenkins.
+
+
+Nexus:
+
+1. Can we store Pom files in Nexus.
+
+
+Ansible:
+
+1. Copy files from Remote machine to Ansible main server.
+Ans: 
+
+
+Docker:
+
+
+General:
+
+1. Why u r using mysql instead of Oracle.
+
+
+
+Linux:
+
+1. Zombie process
+
+2. Linux command to create a new empty file if doesn't exist.
+Ans: touch
+Ex; #!/bin/bash
+
+file="path/to/your/file"
+
+if [[ ! -f $file ]]; then
+  touch $file
+fi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
